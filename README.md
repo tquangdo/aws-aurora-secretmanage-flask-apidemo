@@ -1,9 +1,9 @@
-# aws-aurora-asm-flask-apidemo 🐳
+# aws-aurora-ssm-flask-apidemo 🐳
 
-![Stars](https://img.shields.io/github/stars/tquangdo/aws-aurora-asm-flask-apidemo?color=f05340)
-![Issues](https://img.shields.io/github/issues/tquangdo/aws-aurora-asm-flask-apidemo?color=f05340)
-![Forks](https://img.shields.io/github/forks/tquangdo/aws-aurora-asm-flask-apidemo?color=f05340)
-[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-aurora-asm-flask-apidemo/issues/new)
+![Stars](https://img.shields.io/github/stars/tquangdo/aws-aurora-ssm-flask-apidemo?color=f05340)
+![Issues](https://img.shields.io/github/issues/tquangdo/aws-aurora-ssm-flask-apidemo?color=f05340)
+![Forks](https://img.shields.io/github/forks/tquangdo/aws-aurora-ssm-flask-apidemo?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-aurora-ssm-flask-apidemo/issues/new)
 
 ![overall](screenshots/overall.png)
 
