@@ -11,12 +11,13 @@
 [youtube](https://www.youtube.com/watch?v=NM4Vd7fpZWk&t=1s)
 
 ## rds aurora
++ creation method = `standard` (NOT `easy`)
 + Edition = `postgres`
 + Capacity type = `serverless`
 + set PW = `12345678!`
 + Capacity settings: check `Scale the capacity to 0 ACUs when cluster is idle` to save money
 + Web Service Data API: check `data API`
-+ Initial database name = `dtqsweetdatabase`
++ Initial database name = `dtqsweetdatabase` (can NOT do this with creation method=`easy`)
 + Enable deletion protection:
 1. DEV/STG: uncheck
 2. PROD: check
