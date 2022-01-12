@@ -22,7 +22,9 @@
 1. DEV/STG: uncheck
 2. PROD: check
 
-> type = `serverless` will have result without "└" like `provision`
+> type = `serverless` will:
+> 1. have result without "└" like `provision`
+> 2. can NOT add proxy like `provision`
 ![aurora](screenshots/aurora.png)
 
 ## secrets manager
