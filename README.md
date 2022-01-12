@@ -32,6 +32,7 @@
 
 ## rds aurora
 + click `Query Editor`, select `Secrets manager ARN`
+> Currently, query editor only supports Aurora Serverless databases. Only Aurora Serverless database that you have access to will be displayed.
 ![queryeditor1](screenshots/queryeditor1.png)
 +
 ![queryeditor2](screenshots/queryeditor2.png)
