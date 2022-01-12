@@ -22,6 +22,9 @@
 1. DEV/STG: uncheck
 2. PROD: check
 
+> type = `serverless` will have result without "└" like `provision`
+![aurora](screenshots/aurora.png)
+
 ## secrets manager
 + click `store a new secret`
 + Secret type = `credentials for Amazon RDS db`
