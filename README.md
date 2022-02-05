@@ -5,7 +5,7 @@
 ![Forks](https://img.shields.io/github/forks/tquangdo/aws-aurora-secretmanage-flask-apidemo?color=f05340)
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-aurora-secretmanage-flask-apidemo/issues/new)
 
-![overall](screenshots/overall.png)
+![detail](screenshots/detail.png)
 
 ## reference
 [youtube](https://www.youtube.com/watch?v=NM4Vd7fpZWk&t=1s)
